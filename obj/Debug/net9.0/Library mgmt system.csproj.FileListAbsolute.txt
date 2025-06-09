@@ -1,0 +1,14 @@
+C:\Users\u499790\Desktop\Library mgmt system\bin\Debug\net9.0\Library mgmt system.exe
+C:\Users\u499790\Desktop\Library mgmt system\bin\Debug\net9.0\Library mgmt system.deps.json
+C:\Users\u499790\Desktop\Library mgmt system\bin\Debug\net9.0\Library mgmt system.runtimeconfig.json
+C:\Users\u499790\Desktop\Library mgmt system\bin\Debug\net9.0\Library mgmt system.dll
+C:\Users\u499790\Desktop\Library mgmt system\bin\Debug\net9.0\Library mgmt system.pdb
+C:\Users\u499790\Desktop\Library mgmt system\obj\Debug\net9.0\Library mgmt system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u499790\Desktop\Library mgmt system\obj\Debug\net9.0\Library mgmt system.AssemblyInfoInputs.cache
+C:\Users\u499790\Desktop\Library mgmt system\obj\Debug\net9.0\Library mgmt system.AssemblyInfo.cs
+C:\Users\u499790\Desktop\Library mgmt system\obj\Debug\net9.0\Library mgmt system.csproj.CoreCompileInputs.cache
+C:\Users\u499790\Desktop\Library mgmt system\obj\Debug\net9.0\Library mgmt system.dll
+C:\Users\u499790\Desktop\Library mgmt system\obj\Debug\net9.0\refint\Library mgmt system.dll
+C:\Users\u499790\Desktop\Library mgmt system\obj\Debug\net9.0\Library mgmt system.pdb
+C:\Users\u499790\Desktop\Library mgmt system\obj\Debug\net9.0\Library mgmt system.genruntimeconfig.cache
+C:\Users\u499790\Desktop\Library mgmt system\obj\Debug\net9.0\ref\Library mgmt system.dll
